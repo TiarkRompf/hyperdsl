@@ -1,7 +1,7 @@
 [![Build Status](https://api.travis-ci.org/TiarkRompf/hyperdsl.png)](https://travis-ci.org/TiarkRompf/hyperdsl)
 
 hyperdsl
-========
+=======
 This is a repository containing all of the latest code dependencies for the Delite Compiler Framework, an interactive framework to rapidly and effeciently create DSL's.  
 
 Three repositories are submodules in this framework.  See each individual repository for further detail:
